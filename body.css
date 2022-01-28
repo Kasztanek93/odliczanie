@@ -1,0 +1,47 @@
+body
+{
+background-color: 	#808080;
+font-family: Verdana;
+font-size: 24px;
+color: white;
+}
+#aktualnaData
+{
+	  text-align: center;
+    border: 3px solid #050101;
+}
+#dniDoWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #1013bd;
+}
+#doWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #b80851;
+}
+
+#dataWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #14b114;
+}
+
+#description
+{
+	text-align: center;
+	border: 3px solid #c4c112;
+}
+
+
+#topBar
+{
+	
+	color: #808080;
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+    border: 3px solid rgb(192, 135, 30))
+	letter-spacing: 3px;
+	margin-bottom: 50px;
+}
